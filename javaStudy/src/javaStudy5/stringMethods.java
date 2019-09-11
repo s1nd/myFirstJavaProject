@@ -48,6 +48,9 @@ public class stringMethods {
 		
 		coffe.replace(0, 2, "hello");
 		System.out.println(coffe);
+		
+		coffe.insert(1, 3);
+		System.out.println(coffe);
 	}	
 }
 	
