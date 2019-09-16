@@ -1,4 +1,4 @@
-package javaStudy4;
+package javaStudy04;
 
 public class _static {
 	public void a1(){

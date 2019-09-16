@@ -1,4 +1,4 @@
-package javaStudy1;
+package javaStudy01;
 public class import_test2{
 	public void import_test2(){
 		

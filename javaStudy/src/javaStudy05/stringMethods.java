@@ -1,4 +1,4 @@
-package javaStudy5;
+package javaStudy05;
 
 public class stringMethods {
 	public static void main(String []args) {

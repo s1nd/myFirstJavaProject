@@ -1,4 +1,4 @@
-package javaStudy2;
+package javaStudy02;
 
 public class calculuses {
 //	computed y=x*x on the interval [1, 2]

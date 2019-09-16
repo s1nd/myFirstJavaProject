@@ -1,5 +1,5 @@
-package javaStudy1;
-import javaStudy1.*;
+package javaStudy01;
+import javaStudy01.*;
 public class trans{
 	private void change(){
 		

@@ -1,4 +1,4 @@
-package javaStudy0;
+package javaStudy00;
 
 //enumerate
 class Enumerate{

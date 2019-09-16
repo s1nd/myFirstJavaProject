@@ -1,4 +1,4 @@
-package javaStudy6_array;
+package javaStudy06_array;
 import java.util.Arrays;
 public class array1 {
 	public static void main(String []args) {

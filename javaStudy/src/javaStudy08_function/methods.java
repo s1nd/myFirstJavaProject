@@ -1,4 +1,4 @@
-package javaStudy8_function;
+package javaStudy08_function;
  class sum{
 //	 overload
 	 public sum(){

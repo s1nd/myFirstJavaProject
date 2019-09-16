@@ -1,4 +1,4 @@
-package javaStudy7_date;
+package javaStudy07_date;
 import java.util.Date;
 import java.util.*;
 public class dateObj {

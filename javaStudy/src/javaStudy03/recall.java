@@ -1,4 +1,4 @@
-package javaStudy3;
+package javaStudy03;
 
 //所有的实例对象操作同一个静态变量/类变量
 public class recall {
