@@ -2,23 +2,53 @@ hello word of java!
 project tree
 
 src:.
-├─javaStudy0
+├─hw_sinx
+│      Math.java
+│
+├─hw_专家术语学习机
+│      Study.java
+│
+├─hw_女警去打野
+│      Nursery.java
+│
+├─hw_数啤酒瓶
+│      junle.java
+│
+├─javaStudy00
 │      obj.java
 │      test.java
 │
-├─javaStudy1
+├─javaStudy01
 │      import_test2.java
 │      trans.java
 │
-├─javaStudy2
+├─javaStudy02
 │      calculuses.java
 │      function.java
 │
-├─javaStudy3
+├─javaStudy03
 │      recall.java
 │
-├─javaStudy4
+├─javaStudy04
 │      _static.java
 │
-└─javaStudy5
-        stringMethods.java
+├─javaStudy05
+│      stringMethods.java
+│
+├─javaStudy06_array
+│      array1.java
+│
+├─javaStudy07_date
+│      dateObj.java
+│
+├─javaStudy08_function
+│      methods.java
+│
+├─javaStudy09_Number
+│      Number.java
+│
+├─javaStudy10_Scanner
+│      scanner.java
+│
+└─javaStudy11_re
+        regularExpression.java
