@@ -1,6 +1,7 @@
-hello word of java!
-project tree
+java 学习路径
+![photo not found](https://blog.csdn.net/chenshiyang0806/article/details/79879269)
 
+project tree
 src:.
 ├─hw_sinx
 │      Math.java
