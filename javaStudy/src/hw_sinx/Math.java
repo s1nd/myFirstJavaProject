@@ -1,4 +1,4 @@
-package sinx;
+package hw_sinx;
 
 public class Math {
 	Math(){
