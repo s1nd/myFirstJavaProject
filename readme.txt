@@ -1,6 +1,7 @@
-hello word of java!
-project tree
+java 学习路径
+![photo not found](https://raw.githubusercontent.com/objcoding/objcoding.github.io/master/images/javaweblearning.png)
 
+project tree
 src:.
 ├─hw_sinx
 │      Math.java
