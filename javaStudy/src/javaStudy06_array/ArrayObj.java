@@ -3,7 +3,7 @@ package javaStudy06_array;
 import  java.util.Arrays;
 public class ArrayObj {
 	public int[] el;
-	public ArrayObj(int[] arr){
+	public ArrayObj(){
 
 		el = new int[0];
 //		el = new int[]{1,2,3};
