@@ -1,4 +1,4 @@
-package jiecheng;
+package hw_jiecheng;
 import java.util.Arrays;
 public class draft {
     public static void main(String []args){

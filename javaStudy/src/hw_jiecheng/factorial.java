@@ -1,4 +1,4 @@
-package jiecheng;
+package hw_jiecheng;
 
 public class factorial {
 
