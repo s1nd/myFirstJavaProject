@@ -10,6 +10,7 @@ public class scanner {
 			System.out.println(st);	
 			scanner.close();
 		}
+//		nextLine 会读取回车键之前所有字符，而next遇到空白就停止
 //		String str = scanner.nextLine();
 //		System.out.println(str);	
 		//remove warnning

@@ -12,35 +12,42 @@ public class knowEquals {
         Cat Tomcat = new Cat("unknow", "tom");
 
         //equals  compare memory address
-        boolean test1 = cat1.equals(cat2);//false
-        boolean test2 = cat1.equals(copyCat);//false
+        boolean test = Tom.equals(cat1);//false
+        boolean test1 = Tom.equals(Tomcat);//false
+        boolean test2 = cat1.equals(copyCat);//true
 //        System.out.println(test1);
-//        System.out.println(test2);
+//        System.out.println(test);
 
         HashSet<Cat> cat = new HashSet<Cat>();
-//        size=2
+//        size=1
         cat.add(Tom);
         cat.add(Tomcat);
-
-//        size=3
+        System.out.println(Tom.name);
+//        size=2
         cat.add(cat1);
         cat.add(copyCat);
 
-//        size =3
+//        size =1
+        System.out.println(cat1.hashCode());
         cat1.name = "garfield";
+        System.out.println(cat1.hashCode());
 //        cat.remove(cat1);
 
 //        没有发生内存泄漏
-        cat1.name = "StarCat";
-        cat.remove(cat1);
+        {
+            cat1.name = "StarCat";
+            cat.remove(cat1);
+        }
 
 
 //        false
 //        System.out.println(Tom.equals(Tomcat));
         System.out.println(cat.size());
-
+//          System.out.println(cat1.hashCode());
     }
 }
+
+
 class Cat{
     String type = "";
     String name = "";
@@ -49,6 +56,7 @@ class Cat{
     }
     Cat(String type, String name){
         this.type = type;
+        this.name = name;
     }
     @Override
     //you must set equals as "public"?
@@ -65,14 +73,15 @@ class Cat{
         final Cat other = (Cat) obj;
 
         if(other.name == this.name && other.type == this.type){
-            return false;
+            return true;
+
         }
         return false;
     }
-
-    public int hashCode(){
-        return 1;
-    }
+//    @Override
+//    public int hashCode(){
+//        return 1;
+//    }
 //    Object allProperty(Object obj) {
 //        if (true) {
 //
