@@ -14,5 +14,7 @@ public class Test {
         }
         var ban2 = new ban();
         ban2.p();
+        double a=0.1,b=0.2;
+        System.out.println(a+b);
     }
 }
