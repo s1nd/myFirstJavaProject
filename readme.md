@@ -1,3 +1,4 @@
+##本项目已迁移至https://github.com/s1nd/DesignPattern
 java 学习路径
 ![photo not found](https://raw.githubusercontent.com/objcoding/objcoding.github.io/master/images/javaweblearning.png)
 
