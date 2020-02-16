@@ -4,9 +4,7 @@ java 学习路径
 
 ![photo not found](https://raw.githubusercontent.com/objcoding/objcoding.github.io/master/images/javaweblearning.png)
 
-图片: ![Alt](https://raw.githubusercontent.com/objcoding/objcoding.github.io/master/images/javaweblearning.png)
 
-<img src="https://raw.githubusercontent.com/objcoding/objcoding.github.io/master/images/javaweblearning.png"/>
 
 ```
 project tree
