@@ -1,4 +1,4 @@
-##本项目已迁移至https://github.com/s1nd/DesignPattern
+## 本项目已迁移至https://github.com/s1nd/DesignPattern
 
 java 学习路径
 
