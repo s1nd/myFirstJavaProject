@@ -2,7 +2,7 @@
 
 java 学习路径
 
-![photo not found](https://raw.githubusercontent.com/objcoding/objcoding.github.io/master/images/javaweblearning.png)
+![photo not found](https://raw.githubusercontent.com/s1nd/Photos/master/blog/java_path.png)
 
 
 
