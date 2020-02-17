@@ -1,4 +1,5 @@
-## 本项目已迁移至https://github.com/s1nd/DesignPattern
+## 本项目为java SE部分，java设计模式见
+[design pattern]https://github.com/s1nd/DesignPattern
 
 java 学习路径
 
